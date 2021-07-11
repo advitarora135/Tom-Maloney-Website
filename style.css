@@ -1,0 +1,51 @@
+marquee {
+    background-color: gainsboro;
+}
+
+#maloney {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body {
+    text-align: center;
+}
+
+#myCarousel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%
+}
+
+#news {
+    background-color: cornflowerblue;
+}
+
+#news2 {
+    background-color: cornflowerblue;
+}
+
+#logo {
+    height: 35;
+}
+
+.navbar {
+    position: fixed;
+}
+
+button {
+    border-width: thin;
+    text-decoration: none;
+    border-radius: 75px;
+}
+
+#achivments {
+    color: black;
+}
+
+#achivments2 {
+    color: black;
+}
